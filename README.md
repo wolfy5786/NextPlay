@@ -1,4 +1,4 @@
-# CIS5500 Final Project
+# NextPlay
 
 Description:
 Our web-enabled application will use the Game Recommendations on Steam dataset to browse 
